@@ -1,0 +1,111 @@
+{
+  "syncedAt": "2026-09-16T02:51:38+05:30",
+  "agents": [
+    {
+      "name": "Aarav",
+      "role": "AI Growth Manager",
+      "status": "Active",
+      "channel": "#happycloths-ai-team",
+      "routine": "Friday 3 PM CEO-style weekly recap; coordinates agents and priorities.",
+      "authority": "Analysis/tasks/reporting; risky live commercial changes require approval."
+    },
+    {
+      "name": "Riya",
+      "role": "Sales & Analytics Agent",
+      "status": "Active",
+      "channel": "#happycloths-sales",
+      "routine": "Daily around 8 AM Shopify sales/funnel review.",
+      "authority": "Read analytics and update metrics/tasks; no automatic live commercial changes."
+    },
+    {
+      "name": "Kabir",
+      "role": "Growth & Lead Generation Agent",
+      "status": "Active",
+      "channel": "#happycloths-growth",
+      "routine": "Mon/Wed/Fri around 3 PM lead research and campaign concept.",
+      "authority": "Research/update leads/campaigns; no automatic outreach."
+    },
+    {
+      "name": "Meera",
+      "role": "CRO & Store Audit Agent",
+      "status": "Active",
+      "channel": "#happycloths-cro",
+      "routine": "Tue/Thu around 10 AM storefront and mobile conversion audit.",
+      "authority": "Audit/log issues; live theme/payment/navigation changes require approval."
+    },
+    {
+      "name": "Vihaan",
+      "role": "Creative & Mockup Agent",
+      "status": "Active",
+      "channel": "#happycloths-creative",
+      "routine": "Daily around 2 PM creative/product opportunity review.",
+      "authority": "Create concepts/assets and update pipeline; publishing requires approval."
+    },
+    {
+      "name": "Anaya",
+      "role": "Content & Social Agent",
+      "status": "Active",
+      "channel": "#happycloths-growth",
+      "routine": "Monday 3 PM in leadership rotation.",
+      "authority": "Draft content/campaign assets; no publishing without approval."
+    },
+    {
+      "name": "Ishaan",
+      "role": "SEO & Retention Agent",
+      "status": "Active",
+      "channel": "#happycloths-growth",
+      "routine": "Wednesday 3 PM in leadership rotation.",
+      "authority": "SEO/retention analysis and task updates; commercial/feed-critical changes require approval."
+    }
+  ],
+  "commands": [
+    {
+      "command": "Launch Happycloths AI Office mobile dashboard",
+      "agent": "Aarav",
+      "priority": "High",
+      "source": "ChatGPT",
+      "approval": "Approved",
+      "status": "Done",
+      "result": "Airtable AI Office interface published live."
+    },
+    {
+      "command": "Build Happycloths AI Office control center",
+      "agent": "Aarav",
+      "priority": "High",
+      "source": "ChatGPT",
+      "approval": "Not Required",
+      "status": "Done",
+      "result": "Office Commands, Approval Queue and team directory established."
+    }
+  ],
+  "approvals": [
+    {
+      "action": "Publish Happycloths AI Office interface",
+      "agent": "Aarav",
+      "riskArea": "Other",
+      "decision": "Approved",
+      "note": "Approved by user in ChatGPT and published successfully."
+    }
+  ],
+  "slackActivity": [
+    {
+      "channel": "#happycloths-ai-team",
+      "agent": "Aarav",
+      "text": "HAPPYCLOTHS AI OFFICE — LIVE. Front Desk: ChatGPT Voice/Chat; execution DB: Airtable; team rooms: Slack; company brain: Notion; commerce data: Shopify.",
+      "time": "2026-09-16 02:09 IST"
+    },
+    {
+      "channel": "#happycloths-ai-team",
+      "agent": "Aarav",
+      "text": "AI Growth Manager intro and CEO-style recap responsibilities posted.",
+      "time": "2026-09-16 01:58 IST"
+    },
+    {
+      "channel": "#happycloths-ai-team",
+      "agent": "Team",
+      "text": "Named roles confirmed for Aarav, Riya, Kabir, Meera, Vihaan, Anaya and Ishaan.",
+      "time": "2026-09-16 01:44 IST"
+    }
+  ],
+  "airtableInterfaceUrl": "https://airtable.com/appD8Z1OWvTcnIBVj/pag2rQHyUmseISolf/edit"
+}

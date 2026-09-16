@@ -1,0 +1,52 @@
+{
+  "syncedAt": "2026-09-16T02:51:38+05:30",
+  "mode": "connector_snapshot",
+  "period": "last_7_days",
+  "orders": 5,
+  "grossSales": 4433.88,
+  "discounts": -350.31,
+  "netSales": 4083.57,
+  "shipping": 340.0,
+  "taxes": 735.03,
+  "totalSales": 5158.6,
+  "aov": 816.714,
+  "sessions": 127,
+  "visitors": 117,
+  "cartAdditionSessions": 3,
+  "checkoutSessions": 4,
+  "completedCheckoutSessions": 2,
+  "conversionRate": 0.015748031496062992,
+  "topProducts": [
+    {
+      "title": "HIGH PASS TOURING CLUB OVERSIZED T-SHIRT",
+      "grossSales": 828.82,
+      "netSales": 828.82,
+      "orders": 2
+    },
+    {
+      "title": "EAT TRAIN SLEEP GO SUPER SAIYAN OVERSIZED T-SHIRT – OFF WHITE",
+      "grossSales": 634.75,
+      "netSales": 634.75,
+      "orders": 1
+    },
+    {
+      "title": "RONIN WAY LONE BLADE WOMEN'S OVERSIZED T-SHIRT",
+      "grossSales": 634.75,
+      "netSales": 634.75,
+      "orders": 1
+    },
+    {
+      "title": "AKATSUKI ANIME OVERSIZED T-SHIRT",
+      "grossSales": 627.11,
+      "netSales": 533.05,
+      "orders": 1
+    },
+    {
+      "title": "SAMURAI ANIME OVERSIZED T-SHIRT",
+      "grossSales": 550.84,
+      "netSales": 468.22,
+      "orders": 1
+    }
+  ],
+  "note": "Pulled from the connected Shopify analytics source while this app bundle was generated."
+}

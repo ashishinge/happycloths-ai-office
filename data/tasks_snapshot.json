@@ -1,0 +1,186 @@
+{
+  "syncedAt": "2026-09-16T04:10:00+05:30",
+  "count": 18,
+  "tasks": [
+    {
+      "agent": "Aarav",
+      "team": "AI Manager",
+      "task": "Set weekly growth decision loop",
+      "details": "Every cycle: review sales/traffic/CVR/AOV, top products, campaign results, open CRO issues and next 3 actions. Keep metrics factual—no estimates.",
+      "priority": "Medium",
+      "status": "New",
+      "source": "Airtable",
+      "due": "2026-09-18"
+    },
+    {
+      "agent": "Meera",
+      "team": "CRO",
+      "task": "Check WELCOME10 first-order coupon in cart drawer",
+      "details": "India + first order only. Verify visibility, eligibility and checkout behavior.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-17"
+    },
+    {
+      "agent": "Meera",
+      "team": "CRO",
+      "task": "Audit live Happycloths mobile conversion flow",
+      "details": "Homepage → collection → product → cart → checkout. Log only reproducible issues with severity and recommended fix.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-16"
+    },
+    {
+      "agent": "Ishaan",
+      "team": "SEO & Retention",
+      "task": "Build Welcome email flow",
+      "details": "Welcome offer + brand story + best-seller CTA. Track opens, clicks and first purchase.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-18"
+    },
+    {
+      "agent": "Ishaan",
+      "team": "SEO & Retention",
+      "task": "Verify Google Search Console + Merchant Center status",
+      "details": "Check sitemap/indexing, Merchant Center account readiness, feed errors and approval blockers.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-17"
+    },
+    {
+      "agent": "Meera",
+      "team": "CRO",
+      "task": "Lift conversion from current 7-day baseline",
+      "details": "Verified online-store conversion rate is ~1.57% on 127 sessions. Prioritize mobile PDP clarity, trust, shipping/returns messaging, CTA visibility, cart friction and payment flow. Re-measure after fixes.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-18"
+    },
+    {
+      "agent": "Riya",
+      "team": "Sales",
+      "task": "Verify Meta Pixel + FB/IG tracking end-to-end",
+      "details": "Confirm browser + checkout events are firing correctly before scaling ads. Do not change live settings until current state is verified.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-16"
+    },
+    {
+      "agent": "Meera",
+      "team": "CRO",
+      "task": "Fix/verify Women category landing and sub-collection routing",
+      "details": "Explore Women's Collection should open the Women's category page and show sub-collections including Cute Chaos.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-16"
+    },
+    {
+      "agent": "Vihaan",
+      "team": "Creative & Mockup",
+      "task": "Create winning-product creative batch from current sales data",
+      "details": "Use current top-selling patterns to make fresh original Happycloths concepts. Maintain 1229×1536 frame, realistic oversized drape, DTF-integrated print and 300–400 DPI transparent print master.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-19"
+    },
+    {
+      "agent": "Ishaan",
+      "team": "SEO & Retention",
+      "task": "Build Post-Purchase + Review Request flows",
+      "details": "Separate order reassurance, delivery follow-up and review request timing. Do not send duplicate asks.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-19"
+    },
+    {
+      "agent": "Riya",
+      "team": "Sales",
+      "task": "Validate conversion funnel event consistency",
+      "details": "Latest 7 days show 127 sessions, 3 cart-addition sessions, 4 sessions reaching checkout and 2 completed-checkout sessions, while Shopify sales shows 5 orders. Verify tracking/channel differences before using funnel ratios for paid-media decisions.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-16"
+    },
+    {
+      "agent": "Kabir",
+      "team": "Growth & Leads",
+      "task": "Promote HIGH PASS TOURING CLUB as current hero seller",
+      "details": "Verified 7-day top product: 2 orders and ₹828.82 gross sales. Build one focused creative/test around this product or a closely related original racing/bike theme.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-17"
+    },
+    {
+      "agent": "Kabir",
+      "team": "Growth & Leads",
+      "task": "Find first 25 micro-influencer / UGC leads",
+      "details": "Target India streetwear, oversized tees, anime/racing/bike niches. Save only qualified leads with fit score and outreach angle.",
+      "priority": "High",
+      "status": "New",
+      "source": "Web Research",
+      "due": "2026-09-18"
+    },
+    {
+      "agent": "Riya",
+      "team": "Sales",
+      "task": "Verify Mix & Match discount: 2 tees 10%, 3+ tees 15%",
+      "details": "Must work across eligible collections/products, not only multiple quantity of the same SKU.",
+      "priority": "Critical",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-17"
+    },
+    {
+      "agent": "Ishaan",
+      "team": "SEO & Retention",
+      "task": "Product feed optimization for Google + Meta",
+      "details": "Standardize product titles/descriptions, categories and identifiers where available; resolve disapprovals.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-20"
+    },
+    {
+      "agent": "Vihaan",
+      "team": "Creative & Mockup",
+      "task": "Create next 5 print-ready product concepts from current winning collections",
+      "details": "Use Happycloths catalog standards: 300+ DPI print master, realistic DTF integration, fixed 1229×1536 catalog frame and four separate mockups.",
+      "priority": "Medium",
+      "status": "New",
+      "source": "Web Research",
+      "due": "2026-09-21"
+    },
+    {
+      "agent": "Meera",
+      "team": "CRO",
+      "task": "Search results page CRO redesign",
+      "details": "Improve filters, product cards, quick view, mobile usability and no-result recovery.",
+      "priority": "Medium",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-19"
+    },
+    {
+      "agent": "Riya",
+      "team": "Sales",
+      "task": "Verify ₹999 automatic free-shipping rule",
+      "details": "Test threshold behavior in cart and checkout and make sure messaging matches the backend rule.",
+      "priority": "High",
+      "status": "New",
+      "source": "Shopify",
+      "due": "2026-09-17"
+    }
+  ]
+}
